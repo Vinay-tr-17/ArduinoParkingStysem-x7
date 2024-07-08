@@ -178,7 +178,7 @@ void loop() {
 
 
 
-Connections 
+/*Connections 
 Ir 1 n = 2
 Ir 2 n = 4
 Sr n = 3
@@ -189,4 +189,4 @@ Ir 1 and 2 gnd = gnd
 Lcd gnd = gnd 
 Lcd vcc = 5v 
 Sda = a4
-Scl = a5
+Scl = a5*/
